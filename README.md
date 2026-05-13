@@ -1,55 +1,24 @@
-# Serenity Woods Sanctuary Website
+# Stay Serenity Woods website v2
 
-This is a starter static website for **stayserenitywoods.com**.
+Upload all files and folders in this ZIP to the root of the GitHub repository.
 
-## Files
+This version includes:
 
-- `index.html` — main one-page website
-- `styles.css` — visual styling
-- `script.js` — mobile navigation and footer year
-- `CNAME` — tells GitHub Pages to use `stayserenitywoods.com`
-- `README.md` — these instructions
+- A polished home page
+- Photo gallery with lightbox
+- Things To Do page
+- Public Guest Guide page
+- Optimized image assets
+- CNAME for stayserenitywoods.com
+- robots.txt and sitemap.xml
 
-## How to publish on GitHub Pages
+## Upload steps
 
-1. Go to the GitHub repo: `natefishpa/stayserenitywoods`
-2. Upload these files to the root of the repository.
-3. Go to **Settings → Pages**.
-4. Under **Build and deployment**, choose:
-   - Source: `Deploy from a branch`
-   - Branch: `main`
-   - Folder: `/root`
-5. Save.
-6. Wait for GitHub Pages to publish.
-7. Test the GitHub URL first.
-8. Only after the site looks right, point GoDaddy DNS at GitHub Pages.
+1. Unzip this package.
+2. In GitHub, open `natefishpa/stayserenitywoods`.
+3. Upload everything in the unzipped folder to the repository root.
+4. When GitHub asks about duplicate files, replace the old ones.
+5. Commit changes to `main`.
+6. Wait for GitHub Pages to rebuild.
 
-## Custom domain
-
-The `CNAME` file already contains:
-
-```text
-stayserenitywoods.com
-```
-
-When ready, configure DNS at GoDaddy using GitHub Pages' current custom-domain instructions.
-
-## Image replacement
-
-The photo gallery is currently styled placeholders. Replace those with your best images later.
-
-Suggested image order:
-
-1. Pool
-2. Creek / waterfall
-3. Deck
-4. Fire pit
-5. Living room
-6. Bedroom
-7. Kitchen
-8. Exterior
-9. Nearby lake / hiking / Corning / Watkins Glen
-
-## Security note
-
-Do not put Wi-Fi passwords, lock codes, camera details, hidden instructions, or guest-only operational details on a public GitHub Pages website.
+Do not publish sensitive guest details like door codes, Wi-Fi password, camera details, or owner-only maintenance instructions in this public repository.
