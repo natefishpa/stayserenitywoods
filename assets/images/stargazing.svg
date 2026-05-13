@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" width="1600" height="1000">
+<defs>
+  <linearGradient id="sky" x1="0" x2="0" y1="0" y2="1"><stop offset="0%" stop-color="#07101d"/><stop offset="60%" stop-color="#11213d"/><stop offset="100%" stop-color="#1a2c53"/></linearGradient>
+</defs>
+<rect width="1600" height="1000" fill="url(#sky)"/>
+<g fill="#fff7c4" opacity="0.95">
+  <circle cx="180" cy="140" r="3"/><circle cx="240" cy="250" r="2"/><circle cx="320" cy="110" r="4"/><circle cx="410" cy="300" r="3"/><circle cx="510" cy="160" r="2"/><circle cx="620" cy="85" r="4"/><circle cx="720" cy="210" r="3"/><circle cx="820" cy="120" r="2"/><circle cx="940" cy="230" r="4"/><circle cx="1020" cy="120" r="2"/><circle cx="1120" cy="180" r="3"/><circle cx="1240" cy="100" r="4"/><circle cx="1360" cy="180" r="3"/><circle cx="1480" cy="130" r="2"/>
+  <circle cx="130" cy="340" r="2"/><circle cx="260" cy="420" r="3"/><circle cx="355" cy="500" r="2"/><circle cx="480" cy="410" r="3"/><circle cx="590" cy="330" r="2"/><circle cx="685" cy="450" r="4"/><circle cx="770" cy="370" r="2"/><circle cx="900" cy="470" r="3"/><circle cx="1015" cy="350" r="2"/><circle cx="1140" cy="410" r="4"/><circle cx="1280" cy="330" r="2"/><circle cx="1430" cy="450" r="3"/>
+</g>
+<path d="M150 110 C440 20, 770 120, 1140 280 C1250 330, 1370 340, 1510 360" stroke="#d9d5ff" stroke-width="100" opacity="0.14" fill="none" stroke-linecap="round"/>
+<path d="M0 760 C240 690, 500 720, 760 780 S1250 860, 1600 780 L1600 1000 L0 1000 Z" fill="#0a1626"/>
+<g transform="translate(1120,520)">
+  <ellipse cx="150" cy="355" rx="135" ry="24" fill="#000" opacity="0.18"/>
+  <rect x="125" y="200" width="20" height="190" rx="10" fill="#dfe5ef" transform="rotate(22 135 280)"/>
+  <rect x="210" y="245" width="18" height="150" rx="9" fill="#dfe5ef"/>
+  <ellipse cx="140" cy="150" rx="120" ry="48" fill="#cfd9ea" transform="rotate(-18 140 150)"/>
+  <ellipse cx="125" cy="150" rx="86" ry="34" fill="#293f64" transform="rotate(-18 125 150)"/>
+  <rect x="56" y="120" width="32" height="82" rx="12" fill="#e8eef8" transform="rotate(-18 72 160)"/>
+</g>
+</svg>

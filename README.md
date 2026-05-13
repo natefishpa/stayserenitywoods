@@ -22,3 +22,7 @@ This version includes:
 6. Wait for GitHub Pages to rebuild.
 
 Do not publish sensitive guest details like door codes, Wi-Fi password, camera details, or owner-only maintenance instructions in this public repository.
+
+
+## V3 update
+Added a stronger local-experiences section with fishing, wine tours, hunting, waterfall trips, race weekends, and Cherry Springs stargazing.

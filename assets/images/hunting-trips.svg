@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" width="1600" height="1000">
+<defs>
+  <linearGradient id="sky" x1="0" x2="0" y1="0" y2="1"><stop offset="0%" stop-color="#b8d1d7"/><stop offset="100%" stop-color="#f0e3ca"/></linearGradient>
+</defs>
+<rect width="1600" height="1000" fill="url(#sky)"/>
+<rect y="650" width="1600" height="350" fill="#22392c"/>
+<path d="M0 610 C230 540, 460 560, 730 620 S1180 700, 1600 640 L1600 1000 L0 1000 Z" fill="#436147"/>
+<g fill="#183124">
+  <polygon points="120,730 190,560 260,730"/><rect x="175" y="730" width="18" height="160"/>
+  <polygon points="280,760 360,540 440,760"/><rect x="350" y="760" width="18" height="130"/>
+  <polygon points="450,700 525,500 600,700"/><rect x="515" y="700" width="18" height="190"/>
+  <polygon points="1210,740 1290,520 1370,740"/><rect x="1280" y="740" width="18" height="150"/>
+  <polygon points="1380,720 1450,540 1520,720"/><rect x="1441" y="720" width="18" height="170"/>
+</g>
+<g transform="translate(760,595) scale(1.35)">
+  <ellipse cx="170" cy="220" rx="150" ry="24" fill="#000" opacity="0.12"/>
+  <path d="M95 170 C80 120, 130 80, 200 88 C250 92, 297 122, 307 162 C320 213, 288 243, 250 245 L160 245 C124 244, 103 218, 95 170 Z" fill="#b68a5a"/>
+  <path d="M276 140 C294 125, 322 118, 335 135 C349 154, 339 183, 315 196 C293 208, 268 203, 255 189" fill="#b68a5a"/>
+  <circle cx="324" cy="155" r="5" fill="#1f140e"/>
+  <path d="M245 123 C270 78, 286 40, 315 18" stroke="#7a5b37" stroke-width="10" fill="none" stroke-linecap="round"/>
+  <path d="M250 126 C273 95, 302 82, 334 74" stroke="#7a5b37" stroke-width="10" fill="none" stroke-linecap="round"/>
+  <path d="M238 119 C249 78, 248 45, 235 12" stroke="#7a5b37" stroke-width="10" fill="none" stroke-linecap="round"/>
+  <path d="M237 119 C216 90, 196 73, 166 61" stroke="#7a5b37" stroke-width="10" fill="none" stroke-linecap="round"/>
+  <path d="M230 123 C200 98, 172 94, 139 97" stroke="#7a5b37" stroke-width="10" fill="none" stroke-linecap="round"/>
+  <rect x="138" y="236" width="18" height="100" rx="7" fill="#8e6c45"/>
+  <rect x="210" y="236" width="18" height="100" rx="7" fill="#8e6c45"/>
+  <rect x="240" y="236" width="18" height="100" rx="7" fill="#8e6c45"/>
+  <rect x="295" y="228" width="18" height="108" rx="7" fill="#8e6c45"/>
+</g>
+</svg>
